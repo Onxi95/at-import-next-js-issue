@@ -1,6 +1,6 @@
 import { Component } from "./@/component";
 
-export default function PagesDirPage() {
+export function PagesDirPage() {
   return (
     <main>
       <h1>Pages Dir Page</h1>
